@@ -1,7 +1,7 @@
 # Tata-Data-Visualization-Forage-Tableau 
 
 
-![image alt](https://github.com/AnkitaSarkar-98/Tata-Data-Visualization-Forage-Tableau/blob/main/Monthly%20Revenue%20Dashboard.png?raw=true)
+![image alt](https://github.com/AnkitaSarkar-98/Tata-Data-Visualization-Forage-Tableau/blob/main/Certificate.png?raw=true)
 
 
 ## Project Overview
