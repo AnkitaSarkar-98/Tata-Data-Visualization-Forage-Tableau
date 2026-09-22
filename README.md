@@ -1,6 +1,9 @@
 # Tata-Data-Visualization-Forage-Tableau 
 
 
+![image alt](https://github.com/AnkitaSarkar-98/Tata-Data-Visualization-Forage-Tableau/blob/main/Monthly%20Revenue%20Dashboard.png?raw=true)
+
+
 ## Project Overview
 
 This project was completed as part of the **TATA Data Visualisation: Empowering Business with Effective Insights** virtual experience program on Forage.
